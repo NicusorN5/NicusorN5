@@ -23,7 +23,7 @@ I want to let you know, dear reader, that I wish you a great day!
 [VC:MP Zombie survival gamemode](https://github.com/NicusorN5/VCMP-Zombie-Survival)
   This being a project inspired by CoD BO zombies and CoD MW3, being put in VC:MP.
   
-[VC:MP Zombie survival gamemode](https://github.com/NicusorN5/Romania-Cops-N-Robbers)
+[VC:MP Romania Cops N Robbers](https://github.com/NicusorN5/Romania-Cops-N-Robbers)
   My first ever project, I worked on with a real-life friend. Abandoned right now, since it is baaaaaaaaad.
   
 [Monogame .X to .XNB fast converter](https://github.com/NicusorN5/Fast-XNB-Builder)
