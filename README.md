@@ -31,3 +31,6 @@ I want to let you know, dear reader, that I wish you a great day!
   
 [3DRad v722 Extender lib](https://github.com/NicusorN5/3D_Rad_Extender_Lib)
   A library showing example functions that can be used externally inside an older game engine called 3D Rad.
+
+[Monogame C++/CLI Visual Studio Template Project](https://github.com/NicusorN5/Monogame-CPP-CLI-Template/)
+ Monogame for C++/CLI. (Only works on windows).
