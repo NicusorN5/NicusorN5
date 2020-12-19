@@ -34,3 +34,7 @@ I want to let you know, dear reader, that I wish you a great day!
 
 [Monogame C++/CLI Visual Studio Template Project](https://github.com/NicusorN5/Monogame-CPP-CLI-Template/)
  Monogame for C++/CLI. (Only works on windows).
+ 
+ |[Top languages](https://github.com/NicusorN5/github-readme-stats#top-languages-card)|[Stats](https://github.com/NicusorN5/github-readme-stats#github-stats-card)|
+|-|-|
+|![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicusorN5&layout=compact&langs_count=6)|![github stats](https://github-readme-stats.vercel.app/api?username=NicusorN5&count_private=true&show_icons=true&hide=issues)|
