@@ -26,6 +26,9 @@ I want to let you know, dear reader, that I wish you a great day!
 [3DRad v722 Extender lib](https://github.com/NicusorN5/3D_Rad_Extender_Lib)
   A library showing example functions that can be used externally inside an older game engine called 3D Rad.
 
+[3DRad v722 Console Logger](https://github.com/NicusorN5/3DRad-Console-Logger)
+  A plugin that allows easier debugging of 3D Rad projects by allowing the user to write text and values into a allocated terminal console.
+
 [Monogame C++/CLI Visual Studio Template Project](https://github.com/NicusorN5/Monogame-CPP-CLI-Template/)
  Monogame for C++/CLI. (Only works on windows).
  
