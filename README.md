@@ -19,7 +19,7 @@ I want to let you know, dear reader, that I wish you a great day!
 --> 3D Complex Function Grapher
 (nothing yet)
 
-### Finished projects
+### Finished small projects
 [Monogame .X to .XNB fast converter](https://github.com/NicusorN5/Fast-XNB-Builder)
   A fast tool made for 3DRadSpace, as a convinient way to convert .X (Direct X mesh files) to .XNB (a format used by Monogame's content pipeline)
   
@@ -28,6 +28,9 @@ I want to let you know, dear reader, that I wish you a great day!
 
 [3DRad v722 Console Logger](https://github.com/NicusorN5/3DRad-Console-Logger)
   A plugin that allows easier debugging of 3D Rad projects by allowing the user to write text and values into a allocated terminal console.
+
+[3DRad v722 ](https://github.com/NicusorN5/3DRad-Rich-Discord-Presence/)
+  A plugin that allows using Discord Rich Presence into 3D Rad projects.
 
 [Monogame C++/CLI Visual Studio Template Project](https://github.com/NicusorN5/Monogame-CPP-CLI-Template/)
  Monogame for C++/CLI. (Only works on windows).
