@@ -9,6 +9,7 @@ I want to let you know, dear reader, that I wish you a great day!
 ### Main projects
 --> 3DRadSpace
   A spiritual successor to a game engine named 3D Rad. It's goals is speed of developing, and ease of use!
+  
   [Repository](https://www.github.com/3DRadSpace/3D_Rad_Space)
   
   [Forum](https://3dradspace.tk/Forum)
@@ -29,7 +30,7 @@ I want to let you know, dear reader, that I wish you a great day!
 [3DRad v722 Console Logger](https://github.com/NicusorN5/3DRad-Console-Logger)
   A plugin that allows easier debugging of 3D Rad projects by allowing the user to write text and values into a allocated terminal console.
 
-[3DRad v722 ](https://github.com/NicusorN5/3DRad-Rich-Discord-Presence/)
+[3DRad v722 Discord Rich Presence Plugin](https://github.com/NicusorN5/3DRad-Rich-Discord-Presence/)
   A plugin that allows using Discord Rich Presence into 3D Rad projects.
 
 [Monogame C++/CLI Visual Studio Template Project](https://github.com/NicusorN5/Monogame-CPP-CLI-Template/)
