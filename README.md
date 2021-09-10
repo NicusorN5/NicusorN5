@@ -12,7 +12,7 @@ I want to let you know, dear reader, that I wish you a great day!
   
   [Repository](https://www.github.com/3DRadSpace/3D_Rad_Space)
   
-  [Forum](https://3dradspace.tk/Forum)
+  [Forum](https://3dradspace.com/Forum)
   
   [Discord](https://discord.gg/9BcQQyu)
   
