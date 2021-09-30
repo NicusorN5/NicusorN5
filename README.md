@@ -10,19 +10,15 @@ I want to let you know, dear reader, that I wish you a great day!
 --> 3DRadSpace
   A spiritual successor to a game engine named 3D Rad. It's goals is speed of developing, and ease of use!
   
-  [Repository](https://www.github.com/3DRadSpace/3D_Rad_Space)
+  [Repository](https://www.github.com/3DRadSpace/3D_Rad_Space) (lastest release supports C# scripting, and basic rendering of 3D models)
   
   [Forum](https://3dradspace.com/Forum)
   
   [Discord](https://discord.gg/9BcQQyu)
-  
-
---> 3D Complex Function Grapher
-(nothing yet)
 
 ### Finished small projects
 [Monogame .X to .XNB fast converter](https://github.com/NicusorN5/Fast-XNB-Builder)
-  A fast tool made for 3DRadSpace, as a convinient way to convert .X (Direct X mesh files) to .XNB (a format used by Monogame's content pipeline)
+  A fast tool made for 3DRadSpace, as a convinient way to convert .X (Direct X mesh files) to .XNB (a format used by Monogame's content pipeline).
   
 [3DRad v722 Extender lib](https://github.com/NicusorN5/3D_Rad_Extender_Lib)
   A library showing example functions that can be used externally inside an older game engine called 3D Rad.
@@ -34,7 +30,7 @@ I want to let you know, dear reader, that I wish you a great day!
   A plugin that allows using Discord Rich Presence into 3D Rad projects.
 
 [Monogame C++/CLI Visual Studio Template Project](https://github.com/NicusorN5/Monogame-CPP-CLI-Template/)
- Monogame for C++/CLI. (Only works on windows).
+ Monogame VS template project for C++/CLI. (Only works on windows).
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=NicusorN5&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
