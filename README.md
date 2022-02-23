@@ -38,4 +38,4 @@ I want to let you know, dear reader, that I wish you a great day!
 |-|-|
 |![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicusorN5&layout=compact&langs_count=6)|![github stats](https://github-readme-stats.vercel.app/api?username=NicusorN5&count_private=true&show_icons=true&hide=issues)|
 
-$$ \int{0}^{1} x dx = 1 $$
+$ \int{0}^{1} x dx = 1 $
