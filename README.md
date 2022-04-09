@@ -16,6 +16,11 @@ I want to let you know, dear reader, that I wish you a great day!
   
   [Discord](https://discord.gg/9BcQQyu)
 
+--> Mario Worker Ultimate
+  A remake of TheMarioVariable's "Mario Worker Remake 3" with Squirreil scripting and modding support.
+
+  [Repository](https://github.com/NicusorN5/Mario-Worker-Ultimate)
+
 ### Finished small projects
 [Monogame .X to .XNB fast converter](https://github.com/NicusorN5/Fast-XNB-Builder)
   A fast tool made for 3DRadSpace, as a convinient way to convert .X (Direct X mesh files) to .XNB (a format used by Monogame's content pipeline).
