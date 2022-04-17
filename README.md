@@ -7,7 +7,7 @@ I'm just a random C# and C++ hobbyst programmer just doing his own dream project
 I want to let you know, dear reader, that I wish you a great day!
 
 ### Main projects
---> 3DRadSpace
+- 3DRadSpace
   A spiritual successor to a game engine named 3D Rad. It's goals is speed of developing, and ease of use!
   
   [Repository](https://www.github.com/3DRadSpace/3D_Rad_Space) (lastest release supports C# scripting, and basic rendering of 3D models)
@@ -16,7 +16,7 @@ I want to let you know, dear reader, that I wish you a great day!
   
   [Discord](https://discord.gg/9BcQQyu)
 
---> Mario Worker Ultimate
+- Mario Worker Ultimate
   A remake of TheMarioVariable's "Mario Worker Remake 3" with Squirreil scripting and modding support.
 
   [Repository](https://github.com/NicusorN5/Mario-Worker-Ultimate)
