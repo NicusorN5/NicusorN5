@@ -8,18 +8,18 @@ I want to let you know, dear reader, that I wish you a great day!
 
 ### Main projects
 - 3DRadSpace
-  A spiritual successor to a game engine named 3D Rad. It's goals is speed of developing, and ease of use!
-  
-  [Repository](https://www.github.com/3DRadSpace/3D_Rad_Space) (lastest release supports C# scripting, and basic rendering of 3D models)
-  
-  [Forum](https://3dradspace.com/Forum)
-  
-  [Discord](https://discord.gg/9BcQQyu)
+    A spiritual successor to a game engine named 3D Rad. It's goals is speed of developing, and ease of use!
+
+    [Repository](https://www.github.com/3DRadSpace/3D_Rad_Space) (lastest release supports C# scripting, and basic rendering of 3D models)
+
+    [Forum](https://3dradspace.com/Forum)
+
+    [Discord](https://discord.gg/9BcQQyu)
 
 - Mario Worker Ultimate
-  A remake of TheMarioVariable's "Mario Worker Remake 3" with Squirreil scripting and modding support.
+    A remake of TheMarioVariable's "Mario Worker Remake 3" with Squirreil scripting and modding support.
 
-  [Repository](https://github.com/NicusorN5/Mario-Worker-Ultimate)
+    [Repository](https://github.com/NicusorN5/Mario-Worker-Ultimate)
 
 ### Finished small projects
 [Monogame .X to .XNB fast converter](https://github.com/NicusorN5/Fast-XNB-Builder)
