@@ -2,9 +2,7 @@
 
 Hi there!
 
-I'm just a random C# and C++ hobbyst programmer just doing his own dream projects. Maybe you're here for my game engine, or maybe for some library I made a while ago. Or maybe for some VC:MP scripts that keep crashing every 20 minutes.
-
-I want to let you know, dear reader, that I wish you a great day!
+I'm just a random C#, C++ and Rust hobbyst programmer just doing his own dream projects.
 
 ### Main projects
 - 3DRadSpace
