@@ -2,7 +2,7 @@
 
 Hi there!
 
-I'm just a random C#, C++ and Rust hobbyst programmer just doing his own dream projects.
+I'm just a random C#, C++ and Rust hobbyst programmer just doing his own dream projects. I'm mainly interested in game development, graphics programming, and reverse engineering.
 
 ### Main projects
 - 3DRadSpace
