@@ -20,22 +20,6 @@ I'm just a random C#, C++ and Rust hobbyst programmer just doing his own dream p
 >A remake of TheMarioVariable's "Mario Worker Remake 3" with Squirreil scripting and modding support.
 >
 >[Repository](https://github.com/NicusorN5/Mario-Worker-Ultimate)
-
-### Finished small projects
-[Monogame .X to .XNB fast converter](https://github.com/NicusorN5/Fast-XNB-Builder)
-  A fast tool made for 3DRadSpace, as a convinient way to convert .X (Direct X mesh files) to .XNB (a format used by Monogame's content pipeline).
-  
-[3DRad v722 Extender lib](https://github.com/NicusorN5/3D_Rad_Extender_Lib)
-  A library showing example functions that can be used externally inside an older game engine called 3D Rad.
-
-[3DRad v722 Console Logger](https://github.com/NicusorN5/3DRad-Console-Logger)
-  A plugin that allows easier debugging of 3D Rad projects by allowing the user to write text and values into a allocated terminal console.
-
-[3DRad v722 Discord Rich Presence Plugin](https://github.com/NicusorN5/3DRad-Rich-Discord-Presence/)
-  A plugin that allows using Discord Rich Presence into 3D Rad projects.
-
-[Monogame C++/CLI Visual Studio Template Project](https://github.com/NicusorN5/Monogame-CPP-CLI-Template/)
- Monogame VS template project for C++/CLI. (Only works on windows).
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=NicusorN5&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
