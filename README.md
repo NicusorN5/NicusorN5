@@ -21,7 +21,7 @@ I'm just a random C#, C++ and Rust hobbyst programmer just doing his own dream p
 >
 >[Repository](https://github.com/NicusorN5/Mario-Worker-Ultimate)
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=NicusorN5&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NicusorN5)](https://github.com/ryo-ma/github-profile-trophy)
 
  |[Top languages](https://github.com/NicusorN5/github-readme-stats#top-languages-card)|[Stats](https://github.com/NicusorN5/github-readme-stats#github-stats-card)|
 |-|-|
