@@ -7,9 +7,9 @@ I'm just a random C#, C++ and Rust hobbyst programmer just doing his own dream p
 ### Main projects
 - 3DRadSpace
 
->A spiritual successor to a game engine named 3D Rad. It's goals is speed of developing, and ease of use!
+>A spiritual successor to a game engine named 3D Rad. The goal of the engine is being as lightweight and performant as possible, and also easy to use, just like Fernando Zanini's original 3D Rad.
 >
->[Repository](https://www.github.com/3DRadSpace/3D_Rad_Space) (lastest release supports C# scripting, and basic rendering of 3D models)
+>[Repository](https://www.github.com/3DRadSpace/3D_Rad_Space) (lastest release (0.0.6a) supports C# scripting, and basic rendering of 3D models)
 >
 >[Forum](https://3dradspace.com/Forum)
 >
