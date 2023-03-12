@@ -18,6 +18,8 @@ I'm just a random C#, C++ and Rust hobbyst programmer just doing his own dream p
 >A remake of TheMarioVariable's "Mario Worker Remake 3" with LUA scripting and modding support.
 >
 >[Repository](https://github.com/NicusorN5/Mario-Worker-Ultimate)
+
+## Stats
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=NicusorN5)](https://github.com/ryo-ma/github-profile-trophy)
 
