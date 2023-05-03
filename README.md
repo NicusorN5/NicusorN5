@@ -22,6 +22,7 @@ I'm just a random C#, C++ and Rust hobbyst programmer just doing his own dream p
 ## Projects I contribute to 
 - Stride
 > Stride is a 3D game engine written entirely using .NET for realistic rendering and VR. I contributed by fixing a bug regarding the FBX animation importer.
+>
 > [Repository](https://github.com/stride3d/stride)
 
 ## Stats
