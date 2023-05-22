@@ -34,3 +34,5 @@ I'm just a random C#, C++ and Rust hobbyst programmer just doing his own dream p
  |[Top languages](https://github.com/NicusorN5/github-readme-stats#top-languages-card)|[Stats](https://github.com/NicusorN5/github-readme-stats#github-stats-card)|
 |-|-|
 |![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicusorN5&layout=compact&langs_count=6)|![github stats](https://github-readme-stats.vercel.app/api?username=NicusorN5&count_private=true&show_icons=true&hide=issues)|
+
+![codersrank-badge-img](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=NicusorN5)
