@@ -28,6 +28,7 @@ I'm just a random C#, C++ and Rust hobbyst programmer just doing his own dream p
 > [Repository](https://github.com/stride3d/stride)
 
 ## Stats
+ ![codersrank-badge-img](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=NicusorN5)
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=NicusorN5)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -35,4 +36,4 @@ I'm just a random C#, C++ and Rust hobbyst programmer just doing his own dream p
 |-|-|
 |![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicusorN5&layout=compact&langs_count=6)|![github stats](https://github-readme-stats.vercel.app/api?username=NicusorN5&count_private=true&show_icons=true&hide=issues)|
 
-![codersrank-badge-img](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=NicusorN5)
+![codersrank-stats-img](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=NicusorN5)
