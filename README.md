@@ -15,12 +15,6 @@ I'm just a random C#, C++ and Rust hobbyst programmer just doing his own dream p
 >
 >[Discord](https://discord.gg/9BcQQyu)
 
-- Mario Worker Ultimate
->
->A remake of TheMarioVariable's "Mario Worker Remake 3" with LUA scripting and modding support.
->
->[Repository](https://github.com/NicusorN5/Mario-Worker-Ultimate)
-
 ## Projects I contribute to 
 - Stride
 > Stride is a 3D game engine written entirely using .NET for realistic rendering and VR. I contributed by fixing a bug regarding the FBX animation importer.
