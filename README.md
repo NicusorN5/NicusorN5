@@ -22,8 +22,6 @@ I'm just a random C#, C++ and Rust hobbyst programmer just doing his own dream p
 > [Repository](https://github.com/stride3d/stride)
 
 ## Stats
- ![codersrank-badge-img](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=NicusorN5)
- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NicusorN5)](https://github.com/ryo-ma/github-profile-trophy)
 
  |[Top languages](https://github.com/NicusorN5/github-readme-stats#top-languages-card)|[Stats](https://github.com/NicusorN5/github-readme-stats#github-stats-card)|
