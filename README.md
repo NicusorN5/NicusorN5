@@ -6,9 +6,9 @@ I'm just a random C#, C++ and Rust hobbyst programmer just doing his own dream p
 
 ## Projects
 
-| | Description | Languages |Repository |
+| | Description | Languages | Repository |
 |--|--|--|--|
-| 3DRadSpace| A spiritual successor to a game engine named 3D Rad. The goal of the engine is being as lightweight and performant as possible, and also easy to use, just like Fernando Zanini's original 3D Rad. | C++, C#, HLSL | [Link](https://github.com/3DRadSpace/3D_Rad_Space) |
+| **3DRadSpace** | A spiritual successor to a game engine named 3D Rad. The goal of the engine is being as lightweight and performant as possible, and also easy to use, just like Fernando Zanini's original 3D Rad. | C++, C#, HLSL | [Link](https://github.com/3DRadSpace/3D_Rad_Space) |
 | Simple Chat App| A trivial, native TCP application that can be used to send messages between two users, using their IP addresses. Written using WindowsAPI and winsock2. | C++ | [Link](https://github.com/NicusorN5/Simple_Chat_App) |
 | Stride (contributor)|A game engine written almost entirely in C#, with focus on realistic rendering and VR. I contributed by fixing a bug in the FBX animation importer. |C++, C#| [Link](https://github.com/stride3d/stride) |
 
