@@ -8,7 +8,7 @@ I'm just a random C#, C++ and Rust hobbyst programmer just doing his own dream p
 
 | | Description | Languages | Repository |
 |--|--|--|--|
-| **3DRadSpace** | A spiritual successor to a game engine named 3D Rad. The goal of the engine is being as lightweight and performant as possible, and also easy to use, just like Fernando Zanini's original 3D Rad. | C++, C#, HLSL | [Link](https://github.com/3DRadSpace/3D_Rad_Space) |
+| **3DRadSpace** | A spiritual successor to a game engine named 3D Rad. The goal of the engine is rapid development while being lightweight. | C++, C#, HLSL, CMake | [Link](https://github.com/3DRadSpace/3D_Rad_Space) |
 | Stride (contributor)|A game engine written almost entirely in C#, with focus on realistic rendering and VR. I contributed by fixing a bug in the FBX animation importer. |C++, C#| [Link](https://github.com/stride3d/stride) |
 
 
