@@ -16,7 +16,7 @@ I'm just a random C#, C++ hobbyst programmer just doing his own dream projects. 
 ## Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=NicusorN5)](https://github.com/ryo-ma/github-profile-trophy)
 
-(300 commits are lost because of email change(s)).
+(about 300 commits are lost because of email change(s)).
 
  |[Top languages](https://github.com/NicusorN5/github-readme-stats#top-languages-card)|[Stats](https://github.com/NicusorN5/github-readme-stats#github-stats-card)|
 |-|-|
