@@ -9,7 +9,7 @@ I'm just a random C#, C++ hobbyst programmer just doing his own dream projects. 
 | | Description | Languages | Repository |
 |--|--|--|--|
 | **3DRadSpace** | A spiritual successor to a game engine named 3D Rad. The goal of the engine is rapid development while being lightweight. | C++, C#, HLSL, CMake | [Link](https://github.com/3DRadSpace/3D_Rad_Space) |
-| Mario Worker Ultimate | A remake of "Mario Worker" with LUA scripting and custom entities | C++, LUA | [Link]([https://](https://github.com/NicusorN5/Mario-Worker-Ultimate) |
+| Mario Worker Ultimate | A remake of "Mario Worker" with LUA scripting and custom entities | C++, LUA | [Link](https://github.com/NicusorN5/Mario-Worker-Ultimate) |
 | Stride (contributor)|A game engine written almost entirely in C#, with focus on realistic rendering and VR. I contributed by fixing a bug in the FBX animation importer. |C++, C#| [Link](https://github.com/stride3d/stride) |
 
 
