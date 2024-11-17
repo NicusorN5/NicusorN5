@@ -2,7 +2,7 @@
 
 Hi there!
 
-I'm just a random C#, C++ hobbyst programmer just doing his own dream projects. I'm mainly interested in game development, graphics programming, and reverse engineering.
+I'm just a hobbyst programmer with interests in 3D graphics, reverse engineering and software preservation.
 
 ## Projects
 
@@ -12,12 +12,10 @@ I'm just a random C#, C++ hobbyst programmer just doing his own dream projects. 
 | Mario Worker Ultimate | A remake of "Mario Worker" with LUA scripting and custom entities | C++, LUA | [Link](https://github.com/NicusorN5/Mario-Worker-Ultimate) |
 | Stride (contributor)|A game engine written almost entirely in C#, with focus on realistic rendering and VR. I contributed by fixing a bug in the FBX animation importer. |C++, C#| [Link](https://github.com/stride3d/stride) |
 
-
-
 ## Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=NicusorN5)](https://github.com/ryo-ma/github-profile-trophy)
 
-(about 300 commits are lost because of email change(s)).
+(about 300 commits are lost because of email changes).
 
  |[Top languages](https://github.com/NicusorN5/github-readme-stats#top-languages-card)|[Stats](https://github.com/NicusorN5/github-readme-stats#github-stats-card)|
 |-|-|
