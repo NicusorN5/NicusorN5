@@ -20,9 +20,10 @@ These are projects that I either consider completed, or projects I have abandone
 |--|--|--|--|--|
 | *DoNothing* | Complete (Aug 2023) | Used as a completely empty program, as a possible replacement for `ms-ganing-overlay`, and a starting point for x86 Assembly programs in VS. | x86 Assembly VSNASM |  [Link](https://github.com/NicusorN5/DoNothing)|
 | *Tic-Tac-Toe* | Complete (May 2021) | Two player tic tac toe game made using Windows API in two hours in 2021. | C++ 03 | [Link](https://github.com/NicusorN5/Tic-Tac-Toe)  |
-| *3D Rad Extender* | Complete (Aug 2019) | 3D Rad v7.22 plugin with OS-related functions that could have been defined already in the AngelScript bindings.  |C++ 03, AngelScript| [Link](https://github.com/NicusorN5/3D_Rad_Extender_Lib) |
+| *Fast XNB Builder* | Obselete/Abandoned - Completed (Mar 2020) | MGCB replacement used for 3DRadSpace v0.0.6-Alpha. Obselete as it is not maintaned abymore | C# | [Link](https://github.com/NicusorN5/Fast-XNB-Builder) |
 | *3D Rad 7.22 Console Logger plugin* | Complete (Apr 2021). | 3D Rad v7.22 plugin for outputting strings in console. Wiki as docs. | C++ 03| [Link](https://github.com/NicusorN5/3DRad-Console-Logger) |
 | *3D Rad 7.22 Rich Discord Presence* | Complete (Apr 2021). | 3D Rad v7.22 plugin for Discord rich presence integration. Wiki as docs. | C++ 03 | [Link](https://github.com/NicusorN5/3DRad-Rich-Discord-Presence) |
+| *3D Rad Extender* | Complete (Aug 2019) | 3D Rad v7.22 plugin with OS-related functions that could have been defined already in the AngelScript bindings.  |C++ 03, AngelScript| [Link](https://github.com/NicusorN5/3D_Rad_Extender_Lib) |
 
 Oher archived projects are university projcets that I do not consider worth listing since they were made with time constraints.
 
