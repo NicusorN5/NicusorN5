@@ -5,7 +5,7 @@ Hi there!
 I'm just a hobbyst programmer with interests in 3D graphics, reverse engineering and software preservation.
 
 ## Projects
-Projects that I'm working on.
+Projects that I'm currently working on or contributing.
 
 | | Description | Languages | Repository |
 |--|--|--|--|
