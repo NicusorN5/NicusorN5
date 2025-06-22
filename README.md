@@ -13,7 +13,7 @@ Projects that I'm currently working on or contributing.
 | Stride (contributor)|A game engine written almost entirely in C#, with focus on realistic rendering and VR. I contributed by fixing a bug in the FBX animation importer. |C++, C#, SDSL| [Link](https://github.com/stride3d/stride) |
 
 ## Archived projects
-These are projects that I either consider completed, or projects I have abandoned.
+These are projects that I consider completed.
 
 | | Description | State | Languages | Repository |
 |--|--|--|--|--|
