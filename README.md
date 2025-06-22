@@ -10,7 +10,6 @@ Projects that I'm currently working on or contributing.
 | | Description | Languages | Repository |
 |--|--|--|--|
 | **3DRadSpace** | A spiritual successor to a game engine named 3D Rad. The goal of the engine is rapid development while being lightweight. | C++ 23, C#, HLSL, CMake | [Link](https://github.com/3DRadSpace/3D_Rad_Space) |
-| Mario Worker Ultimate | A remake of "Mario Worker" with LUA scripting and custom entities | C++ 20, LUA | [Link](https://github.com/NicusorN5/Mario-Worker-Ultimate) |
 | Stride (contributor)|A game engine written almost entirely in C#, with focus on realistic rendering and VR. I contributed by fixing a bug in the FBX animation importer. |C++, C#, SDSL| [Link](https://github.com/stride3d/stride) |
 
 ## Archived projects
