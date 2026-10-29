@@ -18,7 +18,7 @@ These are projects that I consider completed.
 | | Description | State | Languages | Repository |
 |--|--|--|--|--|
 | *DoNothing* | Complete (Aug 2023) | Used as a completely empty program, as a possible replacement for `ms-ganing-overlay`, and a starting point for x86 Assembly programs in VS. | x86 Assembly VSNASM |  [Link](https://github.com/NicusorN5/DoNothing)|
-| *Simple Chat App* | Complete (Jan 2023) | Application that sends and views TCP packets between two IPs. | C++ | [Link](https://github.com/NicusorN5/Simple-Chat-App |
+| *Simple Chat App* | Complete (Jan 2023) | Application that sends and views TCP packets between two IPs. | C++ | [Link](https://github.com/NicusorN5/Simple-Chat-App) |
 | *Tic-Tac-Toe* | Complete (May 2021) | Two player tic tac toe game made using Windows API in two hours in 2021. | C++ 03 | [Link](https://github.com/NicusorN5/Tic-Tac-Toe)  |
 | *Fast XNB Builder* | Obselete/Abandoned - Completed (Mar 2020) | MGCB replacement used for 3DRadSpace v0.0.6-Alpha. Obselete as it is not maintaned abymore | C# | [Link](https://github.com/NicusorN5/Fast-XNB-Builder) |
 | *3D Rad 7.22 Console Logger plugin* | Complete (Apr 2021). | 3D Rad v7.22 plugin for outputting strings in console. Wiki as docs. | C++ 03| [Link](https://github.com/NicusorN5/3DRad-Console-Logger) |
